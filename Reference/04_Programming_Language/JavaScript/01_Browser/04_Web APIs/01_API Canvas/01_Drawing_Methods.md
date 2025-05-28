@@ -1,0 +1,3 @@
+fillRect()
+strokeRect()
+clearRect()

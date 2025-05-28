@@ -1,0 +1,23 @@
+body {
+	background: #0a4385;
+}
+
+.flex-container {
+	display: flex;
+	background-color: DodgerBlue;
+	width: 300px;
+}
+
+.flex-container > div {
+	background-color: #f1f1f1;
+	width: 100px;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+
+/* #item_1 { flex-shrink: 0; } */
+#item_2 { flex-shrink: 0; } 
+#item_3 { flex-shrink: 2; } 
+/* #item_4 { flex-shrink: 0; } */

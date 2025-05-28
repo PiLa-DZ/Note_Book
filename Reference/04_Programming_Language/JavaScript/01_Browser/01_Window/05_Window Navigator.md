@@ -1,0 +1,12 @@
+appCodeName
+appName
+appVersion
+cookieEnabled
+geolocation
+javaEnabled()
+language
+onLine
+platform
+product
+taintEnabled()
+userAgent

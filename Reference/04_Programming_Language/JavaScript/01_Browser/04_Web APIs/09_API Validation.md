@@ -1,0 +1,14 @@
+checkValidity()
+setCustomValidity()
+validity
+validationMessage
+willValidate
+customError
+patternMismatch
+rangeOverflow
+rangeUnderflow
+stepMismatch
+tooLong
+typeMismatch
+valueMissing
+valid

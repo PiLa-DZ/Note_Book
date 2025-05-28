@@ -1,0 +1,36 @@
+.container {
+	display: grid;
+	background-color: #2196F3;
+	padding: 10px;
+}
+.container > div {
+	background-color: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+/* Example 1 ------------------------------------------ */
+.Example_1 {
+	grid-template-columns: auto auto auto;
+	justify-items: center;
+}
+
+/* Example 2 ------------------------------------------ */
+.Example_2 {
+	grid-template-columns: auto auto auto;
+	justify-items: start;
+}
+
+/* Example 3 ------------------------------------------ */
+.Example_3 {
+	grid-template-columns: auto auto auto;
+	justify-items: end;
+}
+
+/* Example 4 ------------------------------------------ */
+.Example_4 {
+	grid-template-columns: auto auto auto;
+	justify-items: stretch;
+}

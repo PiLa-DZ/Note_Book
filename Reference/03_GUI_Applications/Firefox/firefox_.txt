@@ -1,0 +1,27 @@
+Ctrl+Shift+i            # F12
+Ctrl+Shift+k            # Open Console
+
+Ctrl+t                  # Open New Tab
+Ctrl+Shift+t            # Open History Tabs
+Ctrl+Tab                # Jump Next Tab
+Ctrl+Shift+Tab          # Jump Beck Tab
+
+Ctrl+w                  # Close Window
+
+Ctrl+[                  # Next Page
+Ctrl+]                  # Back Page
+
+Ctrl+l                  # URL Input
+/                       # Search Input
+Ctrl+f                  # Find
+
+Ctrl+d                  # Save Page
+Ctrl+Shift+d            # Save Page
+
+Esc
+
+Ctrl++
+Ctrl+-
+Ctrl+0
+
+18 Shortcut

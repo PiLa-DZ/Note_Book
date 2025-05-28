@@ -1,0 +1,71 @@
+* {
+	font-family: mono;
+}
+div > div {
+	background-color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	padding: 20px 0;
+	font-size: 30px;
+}
+
+/* Example 1 --> center -------------------------- */
+.grid-container1 {
+	display: grid;
+    height: 400px;
+    align-content: center;
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+/* Example 2 --> space-evenly -------------------- */
+.grid-container2 {
+	display: grid;
+    height: 400px;
+    align-content: space-evenly;
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+/* Example 3 --> space-around -------------------- */
+.grid-container3 {
+	display: grid;
+    height: 400px;
+    align-content: space-around;
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+/* Example 4 --> space-between ------------------- */
+.grid-container4 {
+	display: grid;
+    height: 400px;
+    align-content: space-between;
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+/* Example 5 --> start --------------------------- */
+.grid-container5 {
+	display: grid;
+    height: 400px;
+    align-content: start;
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+/* Example 6 --> end ----------------------------- */
+.grid-container6 {
+	display: grid;
+    height: 400px;
+    align-content: end;
+    /* align-content: stretch; */
+	grid-template-columns: 50px 50px 50px; /*Make the grid smaller than the container*/
+	gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}

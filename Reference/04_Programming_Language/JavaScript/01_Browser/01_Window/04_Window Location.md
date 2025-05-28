@@ -1,0 +1,12 @@
+assign()
+hash
+host
+hostname
+href
+origin
+pathname
+port
+protocol
+reload()
+replace()
+search

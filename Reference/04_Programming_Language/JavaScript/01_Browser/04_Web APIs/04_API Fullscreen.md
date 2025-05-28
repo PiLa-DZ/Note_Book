@@ -1,0 +1,4 @@
+exitFullscreen()
+fullscreenElement
+fullscreenEnabled()
+requestFullscreen()

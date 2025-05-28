@@ -1,0 +1,13 @@
+add()
+contains()
+entries()
+forEach()
+item()
+keys()
+length
+remove()
+replace()
+supports()
+toggle()
+value
+values()

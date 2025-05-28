@@ -1,0 +1,411 @@
+├── 01_Array
+│   ├── 00_Intro.js
+│   ├── 01_[]_iterable.js
+│   ├── 02_new Array().js
+│   ├── 03_at().js
+│   ├── 04_concat().js
+│   ├── 05_constructor.js
+│   ├── 06_copyWithin().js
+│   ├── 07_entries().js
+│   ├── 08_every().js
+│   ├── 09_fill().js
+│   ├── 10_filter().js
+│   ├── 11_find().js
+│   ├── 12_findIndex().js
+│   ├── 13_findLast().js
+│   ├── 14_findLastIndex().js
+│   ├── 15_flat().js
+│   ├── 16_flatMap().js
+│   ├── 17_forEach().js
+│   ├── 18_from().js
+│   ├── 19_includes().js
+│   ├── 20_indexOf().js
+│   ├── 21_isArray().js
+│   ├── 22_join().js
+│   ├── 23_keys().js
+│   ├── 24_lastIndexOf().js
+│   ├── 25_length.js
+│   ├── 26_map().js
+│   ├── 27_of().js
+│   ├── 28_pop().js
+│   ├── 29_prototype.js
+│   ├── 30_push().js
+│   ├── 31_reduce().js
+│   ├── 32_reduceRight().js
+│   ├── 33_reverse().js
+│   ├── 34_shift().js
+│   ├── 35_slice().js
+│   ├── 36_some().js
+│   ├── 37_sort().js
+│   ├── 38_splice().js
+│   ├── 39_toReversed().js
+│   ├── 40_toSorted().js
+│   ├── 41_toSpliced().js
+│   ├── 42_toString().js
+│   ├── 43_unShift().js
+│   ├── 44_values().js
+│   ├── 45_valueOf().js
+│   └── 46_with().js
+├── 02_String
+│   ├── 00_Intro.js
+│   ├── 01_at().js
+│   ├── 02_charAt().js
+│   ├── 03_charCodeAt().js
+│   ├── 04_codePointAt().js
+│   ├── 05_concat().js
+│   ├── 06_constructor.js
+│   ├── 07_endsWith().js
+│   ├── 08_fromCharCode().js
+│   ├── 09_includes().js
+│   ├── 10_indexOf().js
+│   ├── 11_lastIndexOf().js
+│   ├── 12_length.js
+│   ├── 13_localeCompare().js
+│   ├── 14_match().js
+│   ├── 15_padEnd().js
+│   ├── 16_padStart().js
+│   ├── 17_prototype.js
+│   ├── 18_repeat().js
+│   ├── 19_replace().js
+│   ├── 20_replaceAll().js
+│   ├── 21_search().js
+│   ├── 22_slice().js
+│   ├── 23_split().js
+│   ├── 24_startsWith().js
+│   ├── 25_substr().js
+│   ├── 26_substring().js
+│   ├── 27_toLocaleLowerCase().js
+│   ├── 28_toLocaleUpperCase().js
+│   ├── 29_toLowerCase().js
+│   ├── 30_toString().js
+│   ├── 31_toUpperCase().js
+│   ├── 32_trim().js
+│   ├── 33_trimEnd().js
+│   ├── 34_trimStart().js
+│   └── 35_valueOf().js
+├── 03_Number
+│   ├── 00_Intro.js
+│   ├── 01_constructor.js
+│   ├── 02_EPSILON.js
+│   ├── 03_isFinite().js
+│   ├── 04_isInteger().js
+│   ├── 05_isNaN().js
+│   ├── 06_isSafeInteger().js
+│   ├── 07_MAX_SAFE_INTEGER.js
+│   ├── 08_MIN_SAFE_INTEGER.js
+│   ├── 09_MAX_VALUE.js
+│   ├── 10_MIN_VALUE.js
+│   ├── 11_NaN.js
+│   ├── 12_NEGATIVE_INFINITY.js
+│   ├── 13_POSITIVE_INFINITY.js
+│   ├── 14_parseFloat().js
+│   ├── 15_parseInt().js
+│   ├── 16_prototype.js
+│   ├── 17_toExponential(x).js
+│   ├── 18_toFixed(x).js
+│   ├── 19_toLocaleString().js
+│   ├── 20_toPrecision(x).js
+│   ├── 21_toString().js
+│   └── 22_valueof().js
+├── 04_Math
+│   ├── 00_Intro.js
+│   ├── 01_abs(x).js
+│   ├── 02_acos(x).js
+│   ├── 03_acosh(x).js
+│   ├── 04_asin(x).js
+│   ├── 05_asinh(x).js
+│   ├── 06_atan(x).js
+│   ├── 07_atan2(y, x).js
+│   ├── 08_atanh(x).js
+│   ├── 09_cbrt(x).js
+│   ├── 10_ceil(x).js
+│   ├── 11_clz32(x).js
+│   ├── 12_cos(x).js
+│   ├── 13_cosh(x).js
+│   ├── 14_E.js
+│   ├── 15_exp(x).js
+│   ├── 16_expm1(x).js
+│   ├── 17_floor(x).js
+│   ├── 18_fround(x).js
+│   ├── 19_LN2.js
+│   ├── 20_LN10.js
+│   ├── 21_log(x).js
+│   ├── 22_log10(x).js
+│   ├── 23_LOG10E.js
+│   ├── 24_log1p(x).js
+│   ├── 25_log2(x).js
+│   ├── 26_LOG2E.js
+│   ├── 27_max(x1,x2,..).js
+│   ├── 28_min(x1,x2,..).js
+│   ├── 29_PI.js
+│   ├── 30_pow(x, y).js
+│   ├── 31_random().js
+│   ├── 32_round(x).js
+│   ├── 33_sign(x).js
+│   ├── 34_sin(x).js
+│   ├── 35_sinh(x).js
+│   ├── 36_sqrt(x).js
+│   ├── 37_SQRT1_2.js
+│   ├── 38_SQRT2.js
+│   ├── 39_tan(x).js
+│   ├── 40_tanh(x).js
+│   └── 41_trunc(x).js
+├── 05_Date
+│   ├── 00_Intro.js
+│   ├── 01_new Date().js
+│   ├── 02_constructor.js
+│   ├── 03_constructor.js
+│   ├── 04_getDate().js
+│   ├── 05_getDay().js
+│   ├── 06_getFullYear().js
+│   ├── 07_getHours().js
+│   ├── 08_getMilliseconds().js
+│   ├── 09_getMinutes().js
+│   ├── 10_getMonth().js
+│   ├── 11_getSeconds().js
+│   ├── 12_getTime().js
+│   ├── 13_getTimezoneOffset().js
+│   ├── 14_getUTCDate().js
+│   ├── 15_getUTCDay().js
+│   ├── 16_getUTCFullYear().js
+│   ├── 17_getUTCHours().js
+│   ├── 18_getUTCMilliseconds().js
+│   ├── 19_getUTCMinutes().js
+│   ├── 20_getUTCMonth().js
+│   ├── 21_getUTCSeconds().js
+│   ├── 22_getYear().js
+│   ├── 23_now().js
+│   ├── 24_parse().js
+│   ├── 25_prototype.js
+│   ├── 26_setDate().js
+│   ├── 27_setFullYear().js
+│   ├── 28_setHours().js
+│   ├── 29_setMilliseconds().js
+│   ├── 30_setMinutes().js
+│   ├── 31_setMonth().js
+│   ├── 32_setSeconds().js
+│   ├── 33_setTime().js
+│   ├── 34_setUTCDate().js
+│   ├── 35_setUTCFullYear().js
+│   ├── 36_setUTCHours().js
+│   ├── 37_setUTCMilliseconds().js
+│   ├── 38_setUTCMinutes().js
+│   ├── 39_setUTCMonth().js
+│   ├── 40_setUTCSeconds().js
+│   ├── 41_setYear().js
+│   ├── 42_toDateString().js
+│   ├── 43_toGMTString().js
+│   ├── 44_toISOString().js
+│   ├── 45_toJSON().js
+│   ├── 46_toLocaleDateString().js
+│   ├── 47_toLocaleTimeString().js
+│   ├── 48_toLocaleString().js
+│   ├── 49_toString().js
+│   ├── 50_toTimeString().js
+│   ├── 51_toUTCString().js
+│   ├── 52_UTC().js
+│   └── 53_valueOf().js
+├── 06_Global
+│   ├── 00_Intro.js
+│   ├── 01_decodeURI().js
+│   ├── 02_decodeURI.js
+│   ├── 03_Component().js
+│   ├── 04_encodeURI().js
+│   ├── 05_encodeURI.js
+│   ├── 06_Component().js
+│   ├── 07_escape().js
+│   ├── 08_encodeURI().js
+│   ├── 09_encodeURIComponent().js
+│   ├── 10_eval().js
+│   ├── 11_Infinity.js
+│   ├── 12_isFinite().js
+│   ├── 13_isNaN().js
+│   ├── 14_NaN.js
+│   ├── 15_Number().js
+│   ├── 16_parseFloat().js
+│   ├── 17_parseInt().js
+│   ├── 18_String().js
+│   ├── 19_undefined.js
+│   ├── 20_unescape().js
+│   ├── 21_decodeURI().js
+│   └── 22_decodeURIComponent().js
+├── 07_Object
+│   ├── 00_Intro.js
+│   ├── 01_assign().js
+│   ├── 02_constructor.js
+│   ├── 03_create().js
+│   ├── 04_defineProperties().js
+│   ├── 05_defineProperty().js
+│   ├── 06_entries().js
+│   ├── 07_freeze().js
+│   ├── 08_fromEntries().js
+│   ├── 09_getOwnPropertyDescriptor().js
+│   ├── 10_getOwnPropertyDescriptors().js
+│   ├── 11_getOwnPropertyNames().js
+│   ├── 12_groupBy().js
+│   ├── 13_isExtensible().js
+│   ├── 14_isFrozen().js
+│   ├── 15_isSealed().js
+│   ├── 16_keys().js
+│   ├── 17_preventExtensions().js
+│   ├── 18_prototype.js
+│   ├── 19_seal().js
+│   ├── 20_toString().js
+│   ├── 21_valueOf().js
+│   └── 22_values().js
+├── 08_Set
+│   ├── 00_Intro.js
+│   ├── 01_new Set().js
+│   ├── 02_add().js
+│   ├── 03_clear().js
+│   ├── 04_delete().js
+│   ├── 05_entries().js
+│   ├── 06_forEach().js
+│   ├── 07_has().js
+│   ├── 08_keys().js
+│   ├── 09_values().js
+│   └── 10_size.js
+├── 09_Map
+│   ├── 00_Intro.js
+│   ├── 01_new Map().js
+│   ├── 02_clear().js
+│   ├── 03_delete().js
+│   ├── 04_entries().js
+│   ├── 05_forEach().js
+│   ├── 06_get().js
+│   ├── 07_groupBy().js
+│   ├── 08_has().js
+│   ├── 09_keys().js
+│   ├── 10_set().js
+│   ├── 11_size.js
+│   └── 12_values().js
+├── 10_Class
+│   ├── 00_Intro.js
+│   ├── 01_constructor().js
+│   ├── 02_exlends.js
+│   ├── 03_static.js
+│   └── 04_super.js
+├── 11_RegExp
+│   ├── 00_0_Intro.js
+│   ├── 00_1_Intro.js
+│   ├── 00_2_Intro.js
+│   ├── 00_3_Intro.js
+│   ├── 00_4_Intro.js
+│   ├── 00_5_Intro.js
+│   ├── 00_6_Intro.js
+│   ├── 01_g.js
+│   ├── 02_i.js
+│   ├── 03_d.js
+│   ├── 04_m.js
+│   ├── 05_[abc].js
+│   ├── 06_[#abc].js
+│   ├── 07_[0-9].js
+│   ├── 08_[#0-9].js
+│   ├── 09_(x|y).js
+│   ├── 10_..js
+│   ├── 11_\w.js
+│   ├── 12_\W.js
+│   ├── 13_\d.js
+│   ├── 14_\D.js
+│   ├── 15_\s.js
+│   ├── 16_\S.js
+│   ├── 17_\b.js
+│   ├── 18_\B.js
+│   ├── 19_\0.js
+│   ├── 20_\n.js
+│   ├── 21_\f.js
+│   ├── 22_\r.js
+│   ├── 23_\t.js
+│   ├── 24_\v.js
+│   ├── 25_\xxx.js
+│   ├── 26_\xdd.js
+│   ├── 27_\udddd.js
+│   ├── 28_n+.js
+│   ├── 29_n*.js
+│   ├── 30_n?.js
+│   ├── 31_n{X}.js
+│   ├── 32_n{X,Y}.js
+│   ├── 33_n{X,}.js
+│   ├── 34_n$.js
+│   ├── 35_^n.js
+│   ├── 36_?=n.js
+│   ├── 37_?!n.js
+│   ├── 38_constructor.js
+│   ├── 39_global.js
+│   ├── 40_ignoreCase.js
+│   ├── 41_lastIndex.js
+│   ├── 42_multiline.js
+│   ├── 43_source.js
+│   ├── 44_compile().js
+│   ├── 45_exec().js
+│   ├── 46_test().js
+│   └── 47_toString().js
+├── 12_Error
+│   ├── 00_Intro.js
+│   ├── 01_Name and Message.js
+│   ├── 02_name.js
+│   └── 03_message.js
+├── 13_Bool
+│   ├── 00_Intro.js
+│   ├── 01_constructor.js
+│   ├── 02_prototype.js
+│   ├── 03_toString().js
+│   └── 04_valueOf().js
+├── 14_Operator
+│   ├── 00_Intro.js
+│   ├── 01_Arithmetic Operators.js
+│   ├── 02_Assignment Operators.js
+│   ├── 03_String Operators.js
+│   ├── 04_Comparison Operators.js
+│   ├── 05_Conditional (Ternary) Operator.js
+│   ├── 06_Logical Operators.js
+│   ├── 07_The Nullish Coalescing Operator (??).js
+│   ├── 08_The Optional Chaining Operator (?.).js
+│   ├── 09_JavaScript Bitwise Operators.js
+│   ├── 10_The typeof Operator.js
+│   ├── 11_The delete Operator.js
+│   ├── 12_The Spread (...) Operator.js
+│   ├── 13_The in Operator.js
+│   ├── 14_The instanceof Operator.js
+│   └── 15_The void Operator.js
+├── 15_Statement
+│   ├── 00_Intro.js
+│   ├── 01_break.js
+│   ├── 02_class.js
+│   ├── 03_const.js
+│   ├── 04_continue.js
+│   ├── 05_debugger.js
+│   ├── 06_do ... while.js
+│   ├── 07_for.js
+│   ├── 08_for ... in.js
+│   ├── 09_for ... of.js
+│   ├── 10_function.js
+│   ├── 11_if ... else ... else if.js
+│   ├── 12_let.js
+│   ├── 13_return.js
+│   ├── 14_switch.js
+│   ├── 15_throw.js
+│   ├── 16_try ... catch ... finally.js
+│   ├── 17_var.js
+│   └── 18_while.js
+├── 16_Typed_Array
+│   ├── 00_Intro.js
+│   └── app.js
+├── 17_Promise
+│   ├── 00_Intro.js
+│   ├── 01_Promise.all().js
+│   ├── 02_Promise.allSettled().js
+│   ├── 03_Promise.any().js
+│   ├── 04_Promise.race().js
+│   ├── 05_Promise.reject().js
+│   ├── 06_Promise.resolve().js
+│   ├── 07_catch().js
+│   ├── 08_finally().js
+│   └── 09_then().js
+├── 18_JSON
+│   ├── 00_Intro.js
+│   ├── 01_parse().js
+│   └── 02_stringfy().js
+└── map
+
+18 directories, 391 files

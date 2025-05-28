@@ -1,0 +1,203 @@
+# Basic ============================================================
+# Applications =====================================================
+# I3 ===============================================================
+# Window ===========================================================
+# Jump =============================================================
+# Move window ======================================================
+# Split window =====================================================
+# Layout ===========================================================
+# Resize ===========================================================
+# Workspace ========================================================
+# Move window to workspace =========================================
+# Style ============================================================
+# I don't know ??? =================================================
+
+
+
+# Basic ============================================================
+
+# Up/Down Sound {{{ Acer }}}
+bindsym $mod+equal exec amixer -D pulse -R sset Master 3277+
+bindsym $mod+minus exec amixer -D pulse -R sset Master 3277-
+
+# Up/Down Screen Light {{{ Acer }}}
+bindsym $mod+shift+equal exec light -A 10
+bindsym $mod+shift+minus exec light -U 10
+
+# Thouchpad Speed {{{ Acer }}}
+exec_always xinput set-prop 12 323 0.9
+exec_always xinput set-prop 11 329 0.9
+
+
+
+# Applications =====================================================
+
+# start a terminal
+bindsym $mod+Return exec i3-sensible-terminal
+
+# start firefox
+bindsym $mod+b exec firefox
+
+# start dmenu
+bindcode $mod+d exec --no-startup-id i3-dmenu-desktop
+
+bindsym $mod+7 exec i3-sensible-terminal -e 'ranger'
+bindsym $mod+8 exec i3-sensible-terminal -e 'ranger ~/01_Notebook'
+bindsym $mod+9 exec i3-sensible-terminal -e 'ranger ~/02_Work/'
+bindsym $mod+0 exec i3-sensible-terminal -e 'ranger ~/03_Test/'
+bindsym $mod+Shift+0 exec i3-sensible-terminal -e 'btop'
+
+
+
+# I3 ===============================================================
+
+# Mod key
+set $mod Mod4
+
+# restart i3
+bindsym $mod+Shift+r restart
+
+# exit i3
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+
+
+
+# Window ===========================================================
+
+# kill window
+bindsym $mod+c kill
+
+# Fullscreen
+bindsym $mod+Shift+semicolon fullscreen toggle
+
+
+
+# Jump =============================================================
+
+bindsym $mod+k focus up
+bindsym $mod+j focus down
+bindsym $mod+h focus left
+bindsym $mod+l focus right
+
+# Jump between tiling and floating windows Layout
+bindsym $mod+space focus mode_toggle
+
+# Jump the parent container
+bindsym $mod+a focus parent
+
+
+
+# Move window ======================================================
+
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+l move right
+
+
+
+# Split window =====================================================
+
+# Horizontal split
+bindsym $mod+v split v
+
+# Vertical split
+bindsym $mod+shift+v split h
+
+
+
+# Layout ===========================================================
+
+bindsym $mod+shift+y layout stacking
+bindsym $mod+y layout tabbed
+bindsym $mod+x layout toggle split
+bindsym $mod+Shift+space floating toggle
+
+
+
+# Resize ===========================================================
+
+bindsym $mod+semicolon mode "resize"
+
+mode "resize" {
+        bindsym k resize shrink height 10 px or 10 ppt
+        bindsym j resize grow height 10 px or 10 ppt
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
+
+        bindsym shift+k resize shrink height  1 px or  1 ppt
+        bindsym shift+j resize grow height  1 px or  1 ppt
+        bindsym shift+h resize shrink width  1 px or  1 ppt
+        bindsym shift+l resize grow width  1 px or  1 ppt
+
+        bindsym Return mode "default"
+}
+
+
+
+# Workspace ========================================================
+
+set $Note "Note"
+
+bindsym $mod+u				workspace Work_1
+bindsym $mod+i				workspace Work_2
+bindsym $mod+o				workspace Work_3
+bindsym $mod+p				workspace Work_4
+bindsym $mod+bracketleft	workspace Work_5
+bindsym $mod+bracketright	workspace Work_6
+
+bindsym $mod+n				workspace Note
+bindsym $mod+m				workspace Music
+bindsym $mod+comma			workspace Youtube
+bindsym $mod+period			workspace Firefox
+bindsym $mod+slash			workspace System
+
+
+
+# Move window to workspace =========================================
+bindsym $mod+Shift+u				move container to workspace Work_1
+bindsym $mod+Shift+i				move container to workspace Work_2
+bindsym $mod+Shift+o				move container to workspace Work_3
+bindsym $mod+Shift+p				move container to workspace Work_4
+bindsym $mod+Shift+bracketleft		move container to workspace Work_5
+bindsym $mod+Shift+bracketright		move container to workspace Work_6
+
+bindsym $mod+Shift+n				move container to workspace Note
+bindsym $mod+Shift+m				move container to workspace Music
+bindsym $mod+Shift+comma			move container to workspace Youtube
+bindsym $mod+Shift+period			move container to workspace Firefox
+bindsym $mod+Shift+slash			move container to workspace System
+
+
+
+# Style ============================================================
+
+# Font size
+font pango:monospace 8
+
+set $bg-color 	         #2f343f
+set $inactive-bg-color   #2f343f
+set $text-color          #f3f4f5
+set $inactive-text-color #676E7D
+set $urgent-bg-color     #E53935
+
+#                   border      background			text					indicator
+client.focused		#000000		$bg-color			$text-color				#00ff00
+client.unfocused	#676E7d		$inactive-bg-color	$inactive-text-color	#00ff00
+client.urgent       $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
+
+hide_edge_borders both
+bar {
+		colors {
+				background $bg-color
+					separator #757575
+				#                  border             background         text
+				focused_workspace  #000000          $bg-color          $text-color
+				inactive_workspace $inactive-bg-color $inactive-bg-color $inactive-text-color
+				urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
+			}
+}
+
+
+

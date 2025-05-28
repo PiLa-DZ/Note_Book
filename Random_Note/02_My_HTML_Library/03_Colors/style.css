@@ -1,0 +1,16 @@
+body {
+	background: #051930;
+	text-align: center;
+	font-size: 22px;
+}
+
+.continer {
+	margin: auto;
+	width: 80%;
+}
+
+.divs {
+	padding: 10% 0;
+	width: 20%;
+	float: left;
+}

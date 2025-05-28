@@ -1,0 +1,3 @@
+coordinates
+getCurrentPosition()
+position

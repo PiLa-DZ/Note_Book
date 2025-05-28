@@ -1,0 +1,6 @@
+clip()
+save()
+restore()
+createEvent()
+getContext()
+toDataURL()
