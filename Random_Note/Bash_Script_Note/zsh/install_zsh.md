@@ -1,3 +1,4 @@
+powerlevel10k Theme 
 
 ```Bash
 # Install zsh
