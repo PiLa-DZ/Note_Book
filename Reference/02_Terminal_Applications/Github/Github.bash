@@ -1,3 +1,8 @@
+# New Note: Create ssh ---------------------
+ssh-keygen
+# edit remote url
+git remote set-url origin <NEW_GIT_URL_HERE>
+
 # How to create ssh on ubuntu
 
 $ cd ~/.ssh
@@ -26,10 +31,6 @@ ssh-add -l
 
 $ pbcopy <"PATH" | -- >$ vi ~/.ssh/"File_key_name_".pub
 
-# New Note: Create ssh ---------------------
-ssh-keygen
-# edit remote url
-git remote set-url origin <NEW_GIT_URL_HERE>
 
 ###############################################################
 # Create or old Repository in github
