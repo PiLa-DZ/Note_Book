@@ -1,7 +1,10 @@
+######################################################################################################
 # New Note: Create ssh ---------------------
 ssh-keygen
 # edit remote url
 git remote set-url origin <NEW_GIT_URL_HERE>
+
+######################################################################################################
 
 # How to create ssh on ubuntu
 
@@ -32,7 +35,7 @@ ssh-add -l
 $ pbcopy <"PATH" | -- >$ vi ~/.ssh/"File_key_name_".pub
 
 
-###############################################################
+######################################################################################################
 # Create or old Repository in github
 # go to github Repository and copy the URL
 $ git clone "URL_"
@@ -40,7 +43,7 @@ $ git clone "URL_"
 $ git remote -v # List remote Repository
 $ git push origin main
 
-###############################################################
+######################################################################################################
 # Create new or old Repository in local computer
 # Create empty Repository in github
 # go to github Repository and copy the URL
@@ -48,16 +51,16 @@ $ git remote -v # List remote Repository
 $ git remote add origin "URL_"
 $ git push origin main
 
-###############################################################
+######################################################################################################
 # We also have --> git pull
 # You have to undo last commits
 $ git pull origin main
 # You have also learn about --> git fetch
 
-###############################################################
+######################################################################################################
 
 # VCS --> Version Control Services
 
-###############################################################
+######################################################################################################
 
 # You have to learn more about --> Github Organizations
