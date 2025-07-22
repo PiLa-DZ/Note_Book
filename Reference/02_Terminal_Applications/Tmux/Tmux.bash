@@ -1,3 +1,5 @@
+# To enable it, simply add this to your .tmux.conf: 
+set -g default-terminal 'tmux-256color'
 --------------------------------------------------------------------------------------
 # Install tmux
 	$ sudo apt install tmux
@@ -81,11 +83,9 @@ $ tmux ls						# List sessions
 # ####################################################################################
 # configuration ######################################################################
 $ vi ~/.tmux.conf
-# Start text
 	set -g prefix C-s
 	# act like vim
 	setw -g mode-keys vi
-# End text
 
 # ####################################################################################
 # heat Sheet & Quick Reference #######################################################
