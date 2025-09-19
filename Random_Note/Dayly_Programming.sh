@@ -2,6 +2,7 @@ Week 1                          --> 13
 Week 2                          --> 18.5
 Week 3                          --> 20
 Week 4                          --> 14
+Week 5                          --> 7
 
      August 2025    
 Su Mo Tu We Th Fr Sa
@@ -56,3 +57,10 @@ Fri Sep 12 07:17:49 PM CET 2025 --> 1
 Week 4                          --> 14
 
 Sat Sep 13 09:09:21 PM CET 2025 --> 1
+Sun Sep 14 09:12:36 PM CET 2025 --> 1
+Mon Sep 15 08:53:34 PM CET 2025 --> 1
+Tue Sep 16 09:06:51 PM CET 2025 --> 1
+Wed Sep 17 08:21:10 PM CET 2025 --> 1
+Thu Sep 18 09:05:25 PM CET 2025 --> 1
+Fri Sep 19 08:47:37 PM CET 2025 --> 1
+Week 5                          --> 7
