@@ -5,6 +5,7 @@ Week 4                          --> 14
 Week 5                          --> 7
 Week 6                          --> 14
 Week 7                          --> 16
+Week 8                          --> 7
 
      August 2025    
 Su Mo Tu We Th Fr Sa
@@ -21,6 +22,14 @@ Su Mo Tu We Th Fr Sa
 14 15 16 17 18 19 20
 21 22 23 24 25 26 27
 28 29 30            
+    October 2025    
+Su Mo Tu We Th Fr Sa
+          1  2  3  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30 31   
+                    
                     
 Sat Aug 16 09:21:21 PM CET 2025 --> 1.5 + 0   =  1.5
 Sun Aug 17 09:21:21 PM CET 2025 --> 1   + 1.5 =  2.5
@@ -84,3 +93,12 @@ Wed Oct  1 08:28:12 PM CET 2025 --> 1
 Thu Oct  2 09:50:04 PM CET 2025 --> 2
 Fri Oct  3 11:02:59 AM CET 2025 --> 6
 Week 7                          --> 16
+
+Sat Oct  4 10:35:42 PM CET 2025 --> 1
+Sun Oct  5 08:14:45 PM CET 2025 --> 1
+Mon Oct  6 08:56:26 PM CET 2025 --> 1
+Tue Oct  7 10:48:21 PM CET 2025 --> 1
+Wed Oct  8 08:24:35 PM CET 2025 --> 1
+Thu Oct  9 08:18:21 PM CET 2025 --> 1
+Fri Oct 10 08:34:07 PM CET 2025 --> 1
+Week 8                          --> 7
