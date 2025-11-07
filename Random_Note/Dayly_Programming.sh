@@ -10,6 +10,7 @@ Week 9 -- >14
 # Hack Modem 4G Huawei ZTE MF253V --> 11.5
 week 10 -- >6
 week 11 -- >9
+week 12 -- >21
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -145,3 +146,7 @@ Sat Nov 1 09:00:30 PM CET 2025 -- >2
 Sun Nov 2 10:48:26 PM CET 2025 -- >2
 Mon Nov 3 10:04:26 PM CET 2025 -- >1
 Tue Nov 4 09:43:49 PM CET 2025 -- >2
+Wed Nov  5 10:39:29 PM CET 2025 --> 2.5
+Thu Nov  6 09:44:01 PM CET 2025 --> 2
+Fri Nov  7 10:01:04 PM CET 2025 --> 9.5
+week 12 -- >21
