@@ -146,7 +146,9 @@ Sat Nov 1 09:00:30 PM CET 2025 -- >2
 Sun Nov 2 10:48:26 PM CET 2025 -- >2
 Mon Nov 3 10:04:26 PM CET 2025 -- >1
 Tue Nov 4 09:43:49 PM CET 2025 -- >2
-Wed Nov  5 10:39:29 PM CET 2025 --> 2.5
-Thu Nov  6 09:44:01 PM CET 2025 --> 2
-Fri Nov  7 10:01:04 PM CET 2025 --> 9.5
+Wed Nov  5 10:39:29 PM CET 2025 --> 2.5 # Neovim From Scratch 2.5
+Thu Nov  6 09:44:01 PM CET 2025 --> 2 # Neovim From Scratch 4.5
+Fri Nov  7 10:01:04 PM CET 2025 --> 9.5 # Neovim From Scratch 14
 week 12 -- >21
+
+Sat Nov  8 09:06:17 PM CET 2025 --> 1 # Neovim From Scratch 15
