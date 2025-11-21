@@ -1,0 +1,56 @@
+*bold*
+/italic/
+_underline_
+^superscript^
+,subscript,
+
+List: -
+- One
+- Tow
+- Three
+
+List: 1.
+1. First thing
+2. Second thing
+
+List: ~
+~ First thing
+~ Second thing
+~ this three
+
+* Shopping
+  My shopping list consists of:
+  - Milk
+  - Butter
+  - Bread
+
+
+*      Shopping
+       My shopping list consists of:
+       - Milk
+       - Butter
+       - Bread
+
+* Shopping
+** Important Shopping
+   This is stuff I must immediately buy:
+   - Bread
+** Other Stuff
+   This is not as important:
+   - Milk
+   - Tomatoes (yum)
+
+- ( ) Take out the trash
+- (x) Watch "how to delete emacs" video
+- (-) Wish Mum a happy birthday
+- (=) On hold
+- (_) Cancelled
+- (!) Urgent
+- (?) Ambiguous (uncertain)
+- (+) Recurring (happens every so often)
+
+:Neorg toggle-concealer
+:Neorg workspace my_notes_workspace
+:Neorg return
+
+

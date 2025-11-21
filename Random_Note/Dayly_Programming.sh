@@ -12,6 +12,7 @@ week 10 -- >6
 week 11 -- >9
 week 12 -- >21
 week 13 --> 31
+week 14 --> 9
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -162,3 +163,27 @@ Fri Nov 14 01:34:28 PM CET 2025 --> 5 # Neovim From Scratch 45
 week 13 --> 31
 
 Sat Nov 15 10:20:03 PM CET 2025 --> 3 # Neovim From Scratch 48
+Sun Nov 16 08:56:16 PM CET 2025 --> 2.5 # Neovim From Scratch 50.5
+Mon Nov 17 09:14:54 PM CET 2025 --> 1 # Neovim From Scratch 51.5
+Tue Nov 18 08:44:20 PM CET 2025 --> 1.5 # Neovim From Scratch 53
+Wed Nov 19 05:12:10 PM CET 2025 --> 0
+Thu Nov 20 11:39:23 PM CET 2025 --> 0
+Fri Nov 21 08:23:19 PM CET 2025 --> 1 # Note-Taking Learn Neorg 1
+week 14 --> 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
