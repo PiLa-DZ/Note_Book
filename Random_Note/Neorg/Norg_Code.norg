@@ -1,22 +1,32 @@
-*bold*
-/italic/
-_underline_
-^superscript^
-,subscript,
+:Neorg toggle-concealer
+:Neorg journal today
+:Neorg workspace my_notes_workspace
+:Neorg return
+:Neorg toc --> Table of Contents
+* (x) TODO:
+** (x) :Neorg sync-parsers
+* NOTE:
+  :h neorg
 
-List: -
-- One
-- Tow
-- Three
+  *bold*
+  /italic/
+  _underline_
+  ^superscript^
+  ,subscript,
 
-List: 1.
-1. First thing
-2. Second thing
+  List: -
+  - One
+  - Tow
+  - Three
 
-List: ~
-~ First thing
-~ Second thing
-~ this three
+  List: 1.
+  1. First thing
+  2. Second thing
+
+  List: ~
+  ~ First thing
+  ~ Second thing
+  ~ this three
 
 * Shopping
   My shopping list consists of:
@@ -40,17 +50,42 @@ List: ~
    - Milk
    - Tomatoes (yum)
 
-- ( ) Take out the trash
-- (x) Watch "how to delete emacs" video
-- (-) Wish Mum a happy birthday
-- (=) On hold
-- (_) Cancelled
-- (!) Urgent
-- (?) Ambiguous (uncertain)
-- (+) Recurring (happens every so often)
-
-:Neorg toggle-concealer
-:Neorg workspace my_notes_workspace
-:Neorg return
+   - ( ) Take out the trash
+   - (x) Watch "how to delete emacs" video
+   - (-) Wish Mum a happy birthday
+   - (=) On hold
+   - (_) Cancelled
+   - (!) Urgent
+   - (?) Ambiguous (uncertain)
+   - (+) Recurring (happens every so often)
 
 
+* map
+  - {:newnote:}
+  - {:note2:}
+  - {* another heading}
+  - {** another heading}
+  - {# any heading}
+  - {# any heading}[name]
+  - [name2]{:any_File:}
+  - [name2]
+  - {:another_Fie:* another heading}
+  - {https://github.com}[github]
+
+* another heading
+  - this is another heading
+** another heading
+   - this is another heading
+**** any heading
+     - this is any heading
+
+* Short cuts
+  - Alt Enter
+  - <localleader>li --> Toggle List
+  - Ctrl+t --> INSERT mode
+  - Ctrl+d --> INSERT mode
+
+* Code
+  @code js
+  console.log("Hello World!")
+  @end

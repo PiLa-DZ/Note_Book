@@ -11,8 +11,8 @@ Week 9 -- >14
 week 10 -- >6
 week 11 -- >9
 week 12 -- >21
-week 13 --> 31
-week 14 --> 9
+week 13 -- >31
+week 14 -- >9
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -148,42 +148,31 @@ Sat Nov 1 09:00:30 PM CET 2025 -- >2
 Sun Nov 2 10:48:26 PM CET 2025 -- >2
 Mon Nov 3 10:04:26 PM CET 2025 -- >1
 Tue Nov 4 09:43:49 PM CET 2025 -- >2
-Wed Nov  5 10:39:29 PM CET 2025 --> 2.5 # Neovim From Scratch 2.5
-Thu Nov  6 09:44:01 PM CET 2025 --> 2 # Neovim From Scratch 4.5
-Fri Nov  7 10:01:04 PM CET 2025 --> 9.5 # Neovim From Scratch 14
+Wed Nov 5 10:39:29 PM CET 2025 -- >2.5 # Neovim From Scratch 2.5
+Thu Nov 6 09:44:01 PM CET 2025 -- >2   # Neovim From Scratch 4.5
+Fri Nov 7 10:01:04 PM CET 2025 -- >9.5 # Neovim From Scratch 14
 week 12 -- >21
 
-Sat Nov  8 09:06:17 PM CET 2025 --> 1 # Neovim From Scratch 15
-Sun Nov  9 09:34:24 PM CET 2025 --> 1.5 # Neovim From Scratch 16.5
-Mon Nov 10 09:53:48 PM CET 2025 --> 2 # Neovim From Scratch 18.5
-Tue Nov 11 09:16:57 PM CET 2025 --> 2.5 # Neovim From Scratch 21
-Wed Nov 12 08:06:11 AM CET 2025 --> 9.5 # Neovim From Scratch 30.5
-Thu Nov 13 01:31:15 PM CET 2025 --> 9.5 # Neovim From Scratch 40
-Fri Nov 14 01:34:28 PM CET 2025 --> 5 # Neovim From Scratch 45
-week 13 --> 31
+Sat Nov 8 09:06:17 PM CET 2025 -- >1    # Neovim From Scratch 15
+Sun Nov 9 09:34:24 PM CET 2025 -- >1.5  # Neovim From Scratch 16.5
+Mon Nov 10 09:53:48 PM CET 2025 -- >2   # Neovim From Scratch 18.5
+Tue Nov 11 09:16:57 PM CET 2025 -- >2.5 # Neovim From Scratch 21
+Wed Nov 12 08:06:11 AM CET 2025 -- >9.5 # Neovim From Scratch 30.5
+Thu Nov 13 01:31:15 PM CET 2025 -- >9.5 # Neovim From Scratch 40
+Fri Nov 14 01:34:28 PM CET 2025 -- >5   # Neovim From Scratch 45
+week 13 -- >31
 
-Sat Nov 15 10:20:03 PM CET 2025 --> 3 # Neovim From Scratch 48
-Sun Nov 16 08:56:16 PM CET 2025 --> 2.5 # Neovim From Scratch 50.5
-Mon Nov 17 09:14:54 PM CET 2025 --> 1 # Neovim From Scratch 51.5
-Tue Nov 18 08:44:20 PM CET 2025 --> 1.5 # Neovim From Scratch 53
-Wed Nov 19 05:12:10 PM CET 2025 --> 0
-Thu Nov 20 11:39:23 PM CET 2025 --> 0
-Fri Nov 21 08:23:19 PM CET 2025 --> 1 # Note-Taking Learn Neorg 1
-week 14 --> 9
+Sat Nov 15 10:20:03 PM CET 2025 -- >3   # Neovim From Scratch 48
+Sun Nov 16 08:56:16 PM CET 2025 -- >2.5 # Neovim From Scratch 50.5
+Mon Nov 17 09:14:54 PM CET 2025 -- >1   # Neovim From Scratch 51.5
+Tue Nov 18 08:44:20 PM CET 2025 -- >1.5 # Neovim From Scratch 53
+Wed Nov 19 05:12:10 PM CET 2025 -- >0
+Thu Nov 20 11:39:23 PM CET 2025 -- >0
+Fri Nov 21 08:23:19 PM CET 2025 -- >1 # Note-Taking Learn Neorg 1
+week 14 -- >9
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sat Nov 22 08:56:35 PM CET 2025 -- >1 # Note-Taking Learn Neorg 2
+Sun Nov 23 09:37:57 PM CET 2025 -- >1 # Note-Taking Learn Neorg 3
+Mon Nov 24 09:53:39 PM CET 2025 -- >2 # Note-Taking Learn Neorg 5
+Tue Nov 25 10:21:08 PM CET 2025 -- >1 # Organizing Thoughts 1
+Wed Nov 26 07:27:03 PM CET 2025 -- >0
