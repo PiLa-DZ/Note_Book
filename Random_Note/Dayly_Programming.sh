@@ -175,4 +175,5 @@ Sat Nov 22 08:56:35 PM CET 2025 -- >1 # Note-Taking Learn Neorg 2
 Sun Nov 23 09:37:57 PM CET 2025 -- >1 # Note-Taking Learn Neorg 3
 Mon Nov 24 09:53:39 PM CET 2025 -- >2 # Note-Taking Learn Neorg 5
 Tue Nov 25 10:21:08 PM CET 2025 -- >1 # Organizing Thoughts 1
-Wed Nov 26 07:27:03 PM CET 2025 -- >0
+Wed Nov 26 07:27:03 PM CET 2025 -- >3 # Setup WorkFloow 3
+Thu Nov 27 10:31:54 PM CET 2025 -- >2 # Setup WorkFloow 5
