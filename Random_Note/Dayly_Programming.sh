@@ -13,6 +13,7 @@ week 11 -- >9
 week 12 -- >21
 week 13 -- >31
 week 14 -- >9
+week 15 -- > 16
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -177,3 +178,5 @@ Mon Nov 24 09:53:39 PM CET 2025 -- >2 # Note-Taking Learn Neorg 5
 Tue Nov 25 10:21:08 PM CET 2025 -- >1 # Organizing Thoughts 1
 Wed Nov 26 07:27:03 PM CET 2025 -- >3 # Setup WorkFloow 3
 Thu Nov 27 10:31:54 PM CET 2025 -- >2 # Setup WorkFloow 5
+Fri Nov 28 10:14:27 PM CET 2025 -- >6 # Setup WorkFloow 11
+week 15 -- > 16
