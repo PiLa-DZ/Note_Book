@@ -182,4 +182,5 @@ Fri Nov 28 10:14:27 PM CET 2025 -- >6 # Setup WorkFloow 11
 week 15 -- >16
 
 Sat Nov 29 06:57:03 PM CET 2025 -- >3
-Sun Nov 30 07:10:35 PM CET 2025 -- >?
+Sun Nov 30 07:10:35 PM CET 2025 -- >3
+Mon Dec 1 09:43:10 PM CET 2025 -- >?
