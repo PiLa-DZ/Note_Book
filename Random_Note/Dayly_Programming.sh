@@ -167,9 +167,9 @@ Sat Nov 15 10:20:03 PM CET 2025 -- >3   # Neovim From Scratch 48
 Sun Nov 16 08:56:16 PM CET 2025 -- >2.5 # Neovim From Scratch 50.5
 Mon Nov 17 09:14:54 PM CET 2025 -- >1   # Neovim From Scratch 51.5
 Tue Nov 18 08:44:20 PM CET 2025 -- >1.5 # Neovim From Scratch 53
-Wed Nov 19 05:12:10 PM CET 2025 -- >0
-Thu Nov 20 11:39:23 PM CET 2025 -- >0
-Fri Nov 21 08:23:19 PM CET 2025 -- >1 # Note-Taking Learn Neorg 1
+Wed Nov 19 05:12:10 PM CET 2025 -- >0   # Sick
+Thu Nov 20 11:39:23 PM CET 2025 -- >0   # Sick
+Fri Nov 21 08:23:19 PM CET 2025 -- >1   # Note-Taking Learn Neorg 1
 week 14 -- >9
 
 Sat Nov 22 08:56:35 PM CET 2025 -- >1 # Note-Taking Learn Neorg 2
@@ -181,6 +181,8 @@ Thu Nov 27 10:31:54 PM CET 2025 -- >2 # Setup WorkFloow 5
 Fri Nov 28 10:14:27 PM CET 2025 -- >6 # Setup WorkFloow 11
 week 15 -- >16
 
-Sat Nov 29 06:57:03 PM CET 2025 -- >3
-Sun Nov 30 07:10:35 PM CET 2025 -- >3
-Mon Dec 1 09:43:10 PM CET 2025 -- >?
+Sat Nov 29 06:57:03 PM CET 2025 -- >3 # Setup WorkFloow 14
+Sun Nov 30 07:10:35 PM CET 2025 -- >3 # Setup WorkFloow 17
+Mon Dec 1 09:43:10 PM CET 2025 -- >1  # Setup WorkFloow 18
+Tue Dec 2 09:08:04 PM CET 2025 -- >1  # Setup WorkFloow 19
+Wed Dec 3 08:00:12 PM CET 2025 -- >0  # Tired
