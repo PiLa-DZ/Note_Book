@@ -200,3 +200,4 @@ week 16 -- >13
 
 Sat Dec 6 09:57:45 PM CET 2025 -- >3 # Lazyvim 3
 Sun Dec  7 10:16:17 PM CET 2025 --> 2 # Vim From Scratch 2
+Mon Dec  8 10:00:38 PM CET 2025 --> 1 # Neovim From Scratch 54
