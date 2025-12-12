@@ -15,6 +15,7 @@ week 13 -- >31
 week 14 -- >9
 week 15 -- >16
 week 16 -- >13
+week 17 -- > 12
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -204,3 +205,5 @@ Mon Dec  8 10:00:38 PM CET 2025 --> 1 # Neovim From Scratch 54
 Tue Dec  9 09:58:37 PM CET 2025 --> 2 # Neovim From Scratch 56
 Wed Dec 10 05:51:23 PM CET 2025 --> 2 # Vim From Scratch 4
 Thu Dec 11 10:00:57 PM CET 2025 --> 0 # Tired
+Fri Dec 12 09:35:15 PM CET 2025 --> 2 # Zsh Yazi
+week 17 -- > 12
