@@ -207,3 +207,6 @@ Wed Dec 10 05:51:23 PM CET 2025 --> 2 # Vim From Scratch 4
 Thu Dec 11 10:00:57 PM CET 2025 --> 0 # Tired
 Fri Dec 12 09:35:15 PM CET 2025 --> 2 # Zsh Yazi
 week 17 -- > 12
+
+Sat Dec 13 08:52:36 PM CET 2025 --> 0 # Tired
+
