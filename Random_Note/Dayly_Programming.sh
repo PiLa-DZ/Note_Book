@@ -15,7 +15,7 @@ week 13 -- >31
 week 14 -- >9
 week 15 -- >16
 week 16 -- >13
-week 17 -- > 12
+week 17 -- >12
 
 August 2025
 Su Mo Tu We Th Fr Sa
@@ -212,3 +212,5 @@ Sat Dec 13 08:52:36 PM CET 2025 --> 0 # Tired
 Sun Dec 14 09:28:16 PM CET 2025 --> 0 # No Internet
 Mon Dec 15 09:10:48 PM CET 2025 --> 0 # No Time
 Tue Dec 16 10:09:10 PM CET 2025 --> 2 # fzf eza
+Wed Dec 17 10:20:42 PM CET 2025 --> 4 # Setup WorkFloow 28
+ 
