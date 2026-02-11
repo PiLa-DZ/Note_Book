@@ -15,5 +15,5 @@ g?
 # Crypt File
 vim -x file.md
 
-# Vim Version
 version 9.1.2132
+:set noswapfile
